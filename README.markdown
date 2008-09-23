@@ -6,7 +6,7 @@ HtmlUnitTestrunner is a specialized browser-simulator to be run from the command
 Usage
 -----
 
-`HtmlUnitTestrunner <URL to unit test page>`
+`java -jar HtmlUnitTestrunner.jar <URL to unit test page>`
 
 If you want to run a unit test from your filesystem, just use a file:// URL.
 
