@@ -19,7 +19,7 @@ The general result will also be communicated via the program exit code (0 = succ
 
 Background
 ----------
-HtmlUnitTestrunner was created to integrate JS unit tests nicely into cruisecontrol.rb CI builds. It is included in my fork of javascript_test (originally created by Thomas Fuchs).
+HtmlUnitTestrunner was created to integrate JS unit tests nicely into cruisecontrol.rb CI builds. It is included in my fork of [javascript_test][JSTEST] (originally created by Thomas Fuchs).
 
 HtmlUnitTestrunner uses HTMLUnit to simulate a Firefox 2 compatible browser; HTMLUnit in turn uses the Mozilla Rhino Javascript engine.
 
@@ -33,3 +33,4 @@ License
 
 [AP2LIC]: http://www.apache.org/licenses/LICENSE-2.0.txt
 [MITLIC]: http://www.opensource.org/licenses/mit-license.php
+[JSTEST]: http://github.com/martinrehfeld/javascript_test/tree
